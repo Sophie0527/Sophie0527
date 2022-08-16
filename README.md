@@ -37,7 +37,7 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 <br>
-
+<br>
 <div align=center>
 <a href="Sophie0527's github stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Sophie0527&show_icons=true">
 </a>
