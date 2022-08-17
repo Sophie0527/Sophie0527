@@ -1,11 +1,18 @@
 ![sohee github readme](https://user-images.githubusercontent.com/100933263/184902104-50d611af-71c7-404d-91cf-3791d1300b26.gif)
+
 <div align=center>
-<br>
+
+[🍊About Sophie.](https://www.notion.so/dc36d801772847209423c45d0049f50f)
+
+</div>
+<div align=center>
 하루하루 변화하고 성장하는,
 <br>
 <strong> 프론트엔드 개발자 손소희입니다.</strong> 
 <br>
 </div>
+<br>
+
 
 <div align=center>
 <h3>✨ SNS List</h3>
