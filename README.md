@@ -1,5 +1,12 @@
 ![sohee github readme](https://user-images.githubusercontent.com/100933263/184902104-50d611af-71c7-404d-91cf-3791d1300b26.gif)
-
+<div align=center>
+<br>
+하루하루 변화하고 성장하는,
+<h4>
+프론트엔드 개발자 손소희입니다.
+</h4>
+<br>
+</div>
 <div align=center>
 <h3>✨ SNS List</h3>
 <a href="https://sophie0527.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"></a>
