@@ -2,7 +2,7 @@
 
 <div align=center>
 
-[🍊About Sophie.](https://www.notion.so/dc36d801772847209423c45d0049f50f)
+🍊About Sophie.
 
 </div>
 <div align=center>
